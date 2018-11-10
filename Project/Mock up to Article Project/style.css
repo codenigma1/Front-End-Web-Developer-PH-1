@@ -1,0 +1,38 @@
+/* css code here */
+
+p {
+	color: black;
+}
+h2 {
+	color: blue;
+}
+::selection {
+	color: #000;
+	background: #a17cff;
+}
+.container {
+	position: relative;
+	height: 250px;
+	width: 600px;
+	display: inline-block;
+}
+.transform {
+	display: block;
+	width: 600px;
+	height: 250px;
+}
+.overlay {
+	position: absolute;
+	opacity: 0;
+  	transition: all .5s ease;
+}
+.container:hover .overlay {
+	opacity: 1;
+}
+.dbz {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(0%, -100%);
+	/* -ms-transform: translate(-50%, -50%); */
+}

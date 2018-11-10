@@ -1,0 +1,10 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+ * What has been easy? * What has been difficult?
+ * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+
+---
+
+Your response goes here!
+Ans: I have learned strikethrough, horizintal line, supscript these all new concept for me it's fun. I think is not easy but it's not too much complicated just like we use brainstorming several programming such as python, C, C++, and Java. In addition, difficulties is bit moderate but it's good who are fresher, such nice start I hope we will make great carrier. What's more, Yeah, I absolutely learned previous problem how to takcle this kind of problems. Here one of the best stratergies, I applied, I started brainstorming when look up dersire output how could be I can be make before start making changes in index.html. Afterwards, when move up to forward it's make easier than what I expected.  
